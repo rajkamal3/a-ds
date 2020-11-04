@@ -1,3 +1,6 @@
+Big O helps us in analzing the performance of an
+algorithm.
+
 Big O allows us to formally talk about how the runtime
 of an algorithm grows as the input grows.
 
