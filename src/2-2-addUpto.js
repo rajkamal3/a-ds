@@ -1,5 +1,11 @@
 // console.clear();
 
+// - Calculating the speed or efficiency of an algorithm
+// based on time is unreliable because different machines
+// calculate different times.
+// - So the best thing to do is to count the number of
+// operations the machine performs.
+
 function sum(num) {
   let init = 0;
   for (let i = 1; i <= num; i++) {
