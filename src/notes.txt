@@ -1,0 +1,5 @@
+- Calculating the speed or efficiency of an algorithm
+based on time is unreliable because different machines
+calculate different times.
+- So the better thing to do is to count the number of
+operations the machine performs.
