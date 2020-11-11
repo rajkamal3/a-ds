@@ -1,0 +1,9 @@
+Big O helps us in analzing the performance of an algorithm.
+
+It helps us understand time and space complexity.
+
+Big O allows us to formally talk about how the runtime of an algorithm grows as the input grows.
+
+The relationship between the input size and then the time relative to that input.
+
+We say that an algorithm is O(f(n)) if the number of simple operations the computer has to do is eventually less than a constant times f(n) as n increases.
